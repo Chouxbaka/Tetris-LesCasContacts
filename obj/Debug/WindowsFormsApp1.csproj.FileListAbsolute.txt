@@ -1,0 +1,10 @@
+C:\Users\mathi\Source\Repos\projet-tetris-les-cas-contacts\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\mathi\Source\Repos\projet-tetris-les-cas-contacts\bin\Debug\WindowsFormsApp1.exe
+C:\Users\mathi\Source\Repos\projet-tetris-les-cas-contacts\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\mathi\Source\Repos\projet-tetris-les-cas-contacts\obj\Debug\ProjetTetris.Form1.resources
+C:\Users\mathi\Source\Repos\projet-tetris-les-cas-contacts\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\mathi\Source\Repos\projet-tetris-les-cas-contacts\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\mathi\Source\Repos\projet-tetris-les-cas-contacts\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\mathi\Source\Repos\projet-tetris-les-cas-contacts\obj\Debug\WindowsFormsApp1.exe
+C:\Users\mathi\Source\Repos\projet-tetris-les-cas-contacts\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\mathi\Source\Repos\projet-tetris-les-cas-contacts\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
